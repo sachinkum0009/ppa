@@ -1,0 +1,11 @@
+Package: hello-deb
+Version: 1.0
+Architecture: all
+Maintainer: Hello Deb <info@hellodeb.com>
+Filename: ./hello-deb_1.0.0_amd64.deb
+Size: 3228
+MD5sum: 93921d009340e703fb69200d0e012800
+SHA1: e56dd8e7502f463d224356b19aec8d6e8d8afb40
+SHA256: 10ed934043db0c2b7293fd26232f18f4f7af7823d93e123620f2df80e14d03e6
+Description: A program that greets you
+
